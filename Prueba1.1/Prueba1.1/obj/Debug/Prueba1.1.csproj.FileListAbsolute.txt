@@ -1,0 +1,17 @@
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Prueba1.1.exe.config
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Prueba1.1.exe
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Prueba1.1.pdb
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.csprojAssemblyReference.cache
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1._1.Form1.resources
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1._1.Properties.Resources.resources
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.csproj.GenerateResource.cache
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.exe
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.pdb
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\Renci.SshNet.dll
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo-Laptop\Documents\Visual Studio 2019\Proyects\Prueba1.1\Prueba1.1\obj\Debug\Prueba1.1.csproj.CopyComplete
